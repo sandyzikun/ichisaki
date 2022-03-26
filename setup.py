@@ -4,10 +4,13 @@ import setuptools
 setuptools.setup(
     name = "ichisaki",
     version = "0.0.1",
-    author = "sandyzikun",
-    author_email = "1833551009@qq.com",
+    description = "A Simple Toolkit for FUN",
+    long_description = open("README.md", "r", encoding="utf-8").read(),
+    long_description_content_type = "text/markdown",
     url = "https://github.com/sandyzikun/ichisaki.git",
-    description = "",
+    classifiers = [
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+        ],
     packages = ["icsk"],
-    requires = []
     )
