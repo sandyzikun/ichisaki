@@ -1,4 +1,4 @@
-from .pre import Constants, np
+from .base import np, Constants
 
 def cry2num(x: str) -> int:
     flag, fnum = False, 0

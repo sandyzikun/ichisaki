@@ -1,7 +1,6 @@
-from .pre import Constants, np
+from .base import np, Constants
 
 def strcomp(x: str) -> tuple:
-    #if _compress: x = Constants.PATTERN_ALPHABET_ONLY.sub("", x).upper()
     _r = len(x) % 3
     if _r:
         x += " " * (3 - _r)
@@ -32,7 +31,7 @@ def arr2cry(x: np.ndarray, r: int) -> str:
     res = ""
     for each in x:
         res += num2cry(each)
-    res = "%s%s%s" % (Constants.STR_ICSK, res, ["4ever", "4love", "4star"][r])
+    res = Constants.LIST_ALL[0] + res + ["4ever", "4love", "4star"][r]
     return res
 
 def encode(x: str) -> str:

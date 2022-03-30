@@ -3,8 +3,8 @@
 import setuptools
 setuptools.setup(
     name = "ichisaki",
-    version = "0.0.2",
-    description = "A Simple Toolkit for FUN",
+    version = "0.0.3",
+    description = "A Simple Toolkit just for FUN",
     long_description = open("README.md", "r", encoding="utf-8").read(),
     long_description_content_type = "text/markdown",
     url = "https://github.com/sandyzikun/ichisaki.git",

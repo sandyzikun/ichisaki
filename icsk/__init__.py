@@ -1,3 +1,3 @@
 __author__ = "sandyzikun"
-__version__ = "0.0.2"
-from . import cipher
+__version__ = "0.0.3"
+from . import crypto
