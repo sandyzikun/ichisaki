@@ -1,2 +1,7 @@
-*__pycache__*
 pypigen.sh
+# Compiled source
+*.py[ocd]
+# setup.py dist directory
+dist
+# Egg metadata
+*.egg-info
