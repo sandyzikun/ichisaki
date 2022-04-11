@@ -1,4 +1,4 @@
-pypigen.sh
+#pypigen.sh
 # Compiled source
 *.py[ocd]
 # setup.py dist directory

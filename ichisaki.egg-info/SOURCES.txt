@@ -5,6 +5,7 @@ setup.py
 ichisaki.egg-info/PKG-INFO
 ichisaki.egg-info/SOURCES.txt
 ichisaki.egg-info/dependency_links.txt
+ichisaki.egg-info/requires.txt
 ichisaki.egg-info/top_level.txt
 icsk/__init__.py
 icsk/crypto/__init__.py

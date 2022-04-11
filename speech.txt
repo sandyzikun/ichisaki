@@ -1,0 +1,11 @@
+Before I talk about the things we human beings like or love, let us make it clear that in different time, places, and conditions, we have different opinions on the same person or the same thing.
+
+Okay, I'm now talking about the thing I like most when I was coding in the lab of my high school, 4 years before.
+
+It's a song called "ODDS&ENDS" written by the artist "ryo" who belongs to an acg producing group called "supercell", telling a story between him and a virtual singer called Hatsune Miku.
+
+Their story lasts from fourteen years ago. He, the artist called "ryo", was once an ordinary and obscure composer. Nobody was willing to sing his song, nobody support him and his artworks. His song could be never used or sung until he met the VOCALOID program and a diva called Hatsune Miku in it. Through his great efforts, their song became popular quickly.
+
+This was the beginning of their story. Nevertheless the artist "ryo" got bored with Miku, even he once lost his original intention of producing songs. Finally he recalled the hard time with Miku and composed the song for her, showing his gratitude.
+
+When I listened this song for the first time, I was programming to learn the algorithm DFS, in short of Depth First Search. It's an algorithm based on the algorithm "recursion" we learnt yesterday. I couldn't process all the details in the program when I deal with the problem related to it. I got tired just like "ryo" used to. I met this song exactly the time I was to give up. With its strength inner, I tried to calm down and rearrange what I learnt. Finally I overcame the problem.
